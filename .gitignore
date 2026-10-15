@@ -1,0 +1,15 @@
+# Local Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# LTspice generated simulation output
+*.raw
+*.log
+*.log.raw
+*.net
+*.op.raw
+*.db
+
+# Per-run generated results
+results/
